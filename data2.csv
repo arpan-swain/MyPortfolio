@@ -1,0 +1,10 @@
+title;description;url;image
+Student Management System;A desktop PyQt6 GUI app for managing university student data with an SQL database backend.;https://github.com/arpan-swain/StudentManagement;17.png
+Visualizing Weather Forecast;A data web app that visualizes the weather forecast for the next five days of any city.;https://github.com/arpan-swain/WeatherWebApp;16.png
+Job Search App;A Job Application Form where the seekers can fill their details and employer can check potential candidates from database;https://github.com/arpan-swain/JobAppFlask;15.png
+Todo App;A distraction-free web app to help you focus on creating and completing tasks.;https://github.com/arpan-swain/Todo-webapp;1.png
+Restaurant Menu Web App;A Django web app to let customers see a restaurant menu and meal availability.;https://github.com/arpan-swain/RestaurantWebapp;19.png
+Webcam Motion Detector;A program that monitors the computer webcam and sends an email when a new object enters the view.;https://github.com/arpan-swain/WebCamMonitoring;11.png
+Daily News Digest;A program that gets data from a news API and sends regular updates via your email;https://github.com/arpan-swain/NewsDigest;5.png
+PDF Invoices;A script that reads invoice records from Excel files and automatically generates PDF invoices.;https://github.com/arpan-swain/InvoiceGenerator;4.png
+PDF Templates;A script that generates PDF templates of multiple pages given some predefined guidelines.;https://github.com/arpan-swain/MultiPagePDF;3.png
